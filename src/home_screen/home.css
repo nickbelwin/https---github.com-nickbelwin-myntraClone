@@ -1,0 +1,11 @@
+.banner1 img{
+    width: 96vw;
+    cursor: pointer;
+}
+.banner2{
+    display: flex;
+    justify-content: center;
+}
+.banner2 img{
+    width: 50vw;
+}
