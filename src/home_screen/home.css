@@ -1,5 +1,9 @@
+.banner1{
+    margin-top: 6.5rem;
+}
 .banner1 img{
     width: 96vw;
+    margin: auto;
     cursor: pointer;
 }
 .banner2{
@@ -8,4 +12,5 @@
 }
 .banner2 img{
     width: 50vw;
+    cursor: pointer;
 }
